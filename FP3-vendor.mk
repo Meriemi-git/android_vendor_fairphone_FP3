@@ -3158,7 +3158,6 @@ PRODUCT_PACKAGES += \
     QtiTelephonyService \
     SimContact \
     atfwd \
-    datastatusnotification \
     embms \
     imssettings \
     remotesimlockservice \
